@@ -23,4 +23,4 @@ We used two datasets: BQ & LCQMC.
 2. "LCQMC: A Large-scale Chinese Question Matching Corpus", https://www.aclweb.org/anthology/C18-1166/.
 
 ### Note
-Due to the differences between the two data sets, some parameters adopted by 3DSSM are different. Therefore, we provide two versions of the code for the two data sets.
+Due to the differences between the two data sets, some parameters adopted by SFM are different. Therefore, we provide two versions of the code for the two data sets.
